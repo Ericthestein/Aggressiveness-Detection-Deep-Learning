@@ -21,7 +21,7 @@ This project also contains a file ([flask.py](flask.py)) that can be used to hos
 
 ## Author
 
-* **Eric Stein** - *Lead Programmer, Lead Designer*
+* **Eric Stein**
 
 ## License
 
