@@ -12,6 +12,11 @@ The Jupyter notebook can be used to train a model to differentiate between vario
 
 This project also contains a file ([flask.py](flask.py)) that can be used to host an acoustic AI algorithm. A sample endpoint that uses this code can be found at https://ericthestein.pythonanywhere.com. To invoke this, send a POST request with a body that contains a form, in which the key, "recording" contains a .wav file.
 
+#### API Shortcut
+
+An example usage of the sample endpoint:
+![](AggressivenessAPIShortcut)
+
 ## Built With
 
 * [TensorFlow](https://www.tensorflow.org/) - a machine learning platform developed by Google
