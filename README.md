@@ -15,7 +15,7 @@ This project also contains a file ([flask.py](flask.py)) that can be used to hos
 #### API Shortcut
 
 An example usage of the sample endpoint:
-![](AggressivenessAPIShortcut)
+![](AggressivenessAPIShortcut.gif)
 
 ## Built With
 
